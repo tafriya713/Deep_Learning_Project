@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow / Keras model files
+*.h5
+*.hdf5
+
+# Datasets
+dataset/
+data/
+*.csv
+*.npy
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+*.iml
